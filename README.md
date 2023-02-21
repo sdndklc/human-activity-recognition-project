@@ -1,4 +1,4 @@
-#Human Activity Recognition  
+# Human Activity Recognition  
 
 This repository includes classification of human activity by using data taken from smartphone.
 
