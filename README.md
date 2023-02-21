@@ -1,6 +1,6 @@
-# Classification of Human Activity Recognition  
+#Human Activity Recognition  
 
-This repository includes classification of human activity recognition using data taken from smartphone.
+This repository includes classification of human activity by using data taken from smartphone.
 
 This dataset contains 7 activity, 10300 samples and 561 smartphone data.
 
